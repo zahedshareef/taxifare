@@ -7,3 +7,6 @@
 
 ### Framework Used:
 ##### Bootstrap v3.2.0
+***
+### Design Philosophy:
+##### Google Material Design
